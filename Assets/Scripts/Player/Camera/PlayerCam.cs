@@ -7,6 +7,12 @@ using UnityEngine;
  * Massive props to him
  */
 
+/**<summar>
+
+This is Summary!
+
+**/
+
 public class PlayerCam : MonoBehaviour
 {
     public float sensX;
